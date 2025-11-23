@@ -45,8 +45,8 @@ O algoritmo simula inteligência através de:
 
 ## 📌 Status
 
-Projeto inicial de IA baseada em regras.  
-Próximas versões podem incluir APIs de filmes ou Machine Learning.
+Projeto intermediário de IA baseada em regras e pontuação.  
+Próximas versões podem incluir APIs, Machine Learning ou interface gráfica.
 
 ---
 
