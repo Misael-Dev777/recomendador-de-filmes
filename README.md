@@ -1,45 +1,49 @@
-# 🎬 Recomendador Inteligente de Filmes
+# 🎬 Sistema Inteligente de Recomendação de Filmes
 
-Este é um recomendador simples de filmes baseado em Python.  
-Ele usa um sistema de regras para indicar filmes ao usuário com base no gênero informado.
-
----
-
-## 🚀 Como funciona?
-
-O usuário informa um gênero de filme e o programa sugere 3 filmes relacionados.
-
-Gêneros suportados:
-
-- Ação  
-- Comédia  
-- Terror  
-- Drama  
-- Ficção científica  
-- Romance  
+Este projeto é uma simulação simples de um sistema de Inteligência Artificial usando Python puro.  
+Ele recomenda filmes com base em preferências informadas pelo usuário e utiliza um sistema de pontuação inteligente.
 
 ---
 
-## 🧠 Tecnologias usadas
+## 🧠 Como funciona?
 
-- Python puro  
-- Lógica de programação  
+O sistema:
+
+1. Faz perguntas sobre seu gosto (ação, comédia, terror, etc.)  
+2. Cria um perfil de usuário baseado nas respostas  
+3. Analisa uma base de filmes com características próprias  
+4. Calcula uma pontuação para cada filme  
+5. Recomenda o filme com melhor score  
+6. Explica por que aquele filme foi recomendado  
+
+Nenhuma biblioteca externa é usada — é tudo Python básico.
+
+---
+
+## 📊 Exemplo de lógica de IA
+
+O algoritmo simula inteligência através de:
+
+- Sistema de pontuação por categorias  
+- Ajuste de preferências conforme respostas  
+- Ordenação por relevância  
+- Heurística simples baseada em pesos  
+- Explicações transparentes da decisão  
+
+---
+
+## 🧩 Tecnologias usadas
+
+- Python 3  
+- Dicionários  
+- Listas  
 - Funções  
-- Estruturas de dados (dicionários e listas)  
-- Entrada de usuário  
+- Estruturas de decisão  
+- Simulação de IA baseada em regras e pontuação  
 
 ---
 
 ## ▶️ Como executar
 
-No terminal, digite:
-
 ```bash
 python recomendador.py
-
----
-
-## 📌 Status
-
-Projeto inicial de IA baseada em regras.  
-Próximas versões podem incluir APIs de filmes ou Machine Learning.
