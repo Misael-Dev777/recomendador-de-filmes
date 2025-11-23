@@ -43,7 +43,13 @@ O algoritmo simula inteligência através de:
 
 ---
 
+## 📌 Status
+
+Projeto inicial de IA baseada em regras.  
+Próximas versões podem incluir APIs de filmes ou Machine Learning.
 ## ▶️ Como executar
+
+---
 
 ```bash
 python recomendador.py
