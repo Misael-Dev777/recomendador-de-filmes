@@ -37,6 +37,8 @@ No terminal, digite:
 ```bash
 python recomendador.py
 
+---
+
 ## 📌 Status
 
 Projeto inicial de IA baseada em regras.  
